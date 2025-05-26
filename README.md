@@ -4,7 +4,7 @@ This repository contains an exploratory data analysis (EDA) project focused on a
 
 ## Included
 
-- `Main2Ass.html`: HTML report showing descriptive statistics, visualizations, regression analysis, and insights.
+- `SOLVE.html`: HTML report showing descriptive statistics, visualizations, regression analysis, and insights.
 
 ## Tools Used
 - Python (Pandas, Matplotlib, Seaborn, Scikit-learn)
