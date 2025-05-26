@@ -1,2 +1,11 @@
-# Programming-for-Business-Analytics
-Here are the projects I did using python and R
+# EDA Loan Analysis
+
+This repository contains an exploratory data analysis (EDA) project focused on a loan application dataset.
+
+## Included
+
+- `Main2Ass.html`: HTML report showing descriptive statistics, visualizations, regression analysis, and insights.
+
+## Tools Used
+- Python (Pandas, Matplotlib, Seaborn, Scikit-learn)
+- Jupyter Notebook
